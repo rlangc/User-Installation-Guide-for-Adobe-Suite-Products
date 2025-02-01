@@ -32,13 +32,13 @@ Before installing Adobe Creative Cloud, ensure your system meets the following r
 
 <h3>Step 1: Create an Adobe Account</h3>
 
-1. Go to Adobe’s website
+1. Go to [Adobe’s Website](https://www.adobe.com/)
 2. Click Sign In (top right corner) and select Create an account
 3. Enter your email, name, and password, then follow the instructions
 
 <h3>Step 2: Download Adobe Creative Cloud</h3>
 
-1. Visit Adobe Creative Cloud Download
+1. Visit [Adobe Creative Cloud Download](https://creativecloud.adobe.com/apps/download/creative-cloud?promoid=695P7L95&mv=in-product&mv2=cch&locale=en&x-product=CCHome%2F1.0&guid=128f3525-a6eb-4ca4-8579-e73ccea9f5e1&x-location=Home&comVer=Trailhead)
 2. Click Download and wait for the installer to finish downloading
 
 <h3>Step 3: Install Adobe Creative Cloud</h3>
@@ -71,13 +71,13 @@ Before installing Adobe Creative Cloud, ensure your system meets the following r
 
 2. Can’t Sign in to Adobe?
 
-    - Reset your password at Adobe’s login page
+    - Reset your password at [Adobe’s login page](https://account.adobe.com/)
     - Check for firewall or VPN restrictions
 
 3. “Installation Failed” Error
 
     - Ensure your system meets the minimum requirements
-    - Run the Adobe Cleaner Tool (Download Here)
+    - Run the Adobe Cleaner Tool [Download Here](https://helpx.adobe.com/creative-cloud/kb/cc-cleaner-tool-installation-problems.html)
     - Reinstall Creative Cloud
 
 4. Adobe Apps Not Opening
@@ -90,12 +90,12 @@ Before installing Adobe Creative Cloud, ensure your system meets the following r
 5. License & Activation Issues
 
     - Sign out and sign back in
-    - Verify your subscription is active at Adobe Account
+    - Verify your subscription is active at [Adobe Account](https://account.adobe.com/)
     - Contact Adobe Support for activation issues
 
 <h2>Final Notes</h2>
 
-You are now ready to use Adobe Creative Cloud! If you encounter issues, visit the Adobe Help Center.
+You are now ready to use Adobe Creative Cloud! If you encounter issues, visit the [Adobe Help Center](https://helpx.adobe.com/).
 
 <h2></h2>
 <p align="center">
