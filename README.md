@@ -65,33 +65,33 @@ Before installing Adobe Creative Cloud, ensure your system meets the following r
 
 1. Installation Stuck or Slow?
 
-- Restart your computer and try again
-- Disable antivirus software temporarily
-- Use a wired internet connection
+    - Restart your computer and try again
+    - Disable antivirus software temporarily
+    - Use a wired internet connection
 
 2. Can’t Sign in to Adobe?
 
-- Reset your password at Adobe’s login page
-- Check for firewall or VPN restrictions
+    - Reset your password at Adobe’s login page
+    - Check for firewall or VPN restrictions
 
 3. “Installation Failed” Error
 
-- Ensure your system meets the minimum requirements
-- Run the Adobe Cleaner Tool (Download Here)
-- Reinstall Creative Cloud
+    - Ensure your system meets the minimum requirements
+    - Run the Adobe Cleaner Tool (Download Here)
+    - Reinstall Creative Cloud
 
 4. Adobe Apps Not Opening
 
-- Update your graphics drivers
-- Run the app as an administrator (Windows) or grant full disk access (Mac)
-- Reset preferences:
-    - Hold ```Shift + Ctrl + Alt``` (Windows) or ```Shift + Cmd + Option``` (Mac) while launching the app
+    - Update your graphics drivers
+    - Run the app as an administrator (Windows) or grant full disk access (Mac)
+    - Reset preferences:
+        - Hold ```Shift + Ctrl + Alt``` (Windows) or ```Shift + Cmd + Option``` (Mac) while launching the app
 
 5. License & Activation Issues
 
-- Sign out and sign back in
-- Verify your subscription is active at Adobe Account
-- Contact Adobe Support for activation issues
+    - Sign out and sign back in
+    - Verify your subscription is active at Adobe Account
+    - Contact Adobe Support for activation issues
 
 <h2>Final Notes</h2>
 
